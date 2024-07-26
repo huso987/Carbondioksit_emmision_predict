@@ -2,6 +2,11 @@
 
 This project focuses on predicting CO2 emissions from vehicles using a Simple Linear Regression model. The dataset used for this analysis contains information about various vehicles, including their engine size, fuel consumption, and CO2 emissions.
 
+
+![image](https://github.com/user-attachments/assets/03a0d1e3-2e3f-4157-b7a8-9150e8ddeb6c)
+
+
+
 ## Dataset
 
 The dataset includes the following features:
